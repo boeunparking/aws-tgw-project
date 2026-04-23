@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=400&text=AWS%20TGW%20Project&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=venom&height=400&text=AWS%20TGW%20Project&fontSize=100&animation=fadeIn)
 
 [Subject] AWS Transit Gateway를 이용한 멀티리전 사설망 구현
 > [|NOTE]
-> **프로젝트 기간:** 2026.04.23 / 
+> **프로젝트 기간:** 2026.04.23 / **난이도:** 
