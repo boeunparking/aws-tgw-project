@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=400&text=AWS%20TGW%20Project&fontSize=50&animation=fadeIn&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=venom&height=400&text=AWS%20TGW%20Project&fontSize=50&animation=fadeIn&theme=merko)
 
 [Subject] AWS Transit Gateway를 이용한 멀티리전 사설망 구현
 > [|NOTE]
@@ -7,4 +7,4 @@
 ## 프로젝트 구성도
 [|TGW 프로젝트 구성도](./AWS_TGW.png)
 
-## 프로젝트 목표:
+## 프로젝트 목표: 
